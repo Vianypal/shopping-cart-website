@@ -37,7 +37,7 @@ To run the project locally, follow these steps:
 Contributions are welcome! If you'd like to contribute to the project, please follow the Contribution Guidelines.
 
 
-Acknowledgments
+## Acknowledgments
 Special thanks to the developers of React, Bootstrap, and Tailwind CSS for creating these amazing tools.
 Feel free to explore the codebase and customize the project according to your needs. Happy coding!
 
