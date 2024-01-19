@@ -31,7 +31,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone[ https://github.com/vianypal/vinay-shopping-cart-project](https://github.com/Vianypal/shopping-cart-website)
+   git clone(https://github.com/Vianypal/shopping-cart-website)
 
   ## Contributing
 Contributions are welcome! If you'd like to contribute to the project, please follow the Contribution Guidelines.
