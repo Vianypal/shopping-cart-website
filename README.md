@@ -4,6 +4,8 @@ Welcome to  Shopping Cart Website project! This responsive and user-friendly e-c
 
 ## Live Demo
 Check out the live demo hosted on Netlify: [Vinay's Shopping Cart](https://vinay-shopping-cart.netlify.app)
+
+
 ![image](https://github.com/Vianypal/shopping-cart-website/assets/89671983/35a51ce5-c4f2-4417-8d39-e5545dffed79)
 ![image](https://github.com/Vianypal/shopping-cart-website/assets/89671983/5c800e7d-6aa0-4128-b4e8-b11f5cbc7c52)
 
