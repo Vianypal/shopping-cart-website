@@ -38,6 +38,6 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 
 ## Acknowledgments
-Special thanks to the developers of React, Bootstrap, and Tailwind CSS for creating these amazing tools.
+Special thanks to the developers of React, Bootstrap, and Tailwind CSS for creating these amazing tool.
 Feel free to explore the codebase and customize the project according to your needs. Happy coding!
 
